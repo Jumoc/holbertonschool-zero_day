@@ -1,3 +1,21 @@
 # holbertonschool-zero_day
+
 This is my first project at **Holberton School**
-This is to learn how to use *Git* and *GitHub* all together
+
+In this project there's a lot of useful commands and tools.
+Some of the tools and commands used in this project
+
+*Emacs
+
+*Git
+
+  *Adding
+  *Commiting
+  *Pushing
+  *Pulling
+  *Branches
+
+*Vim
+
+*Vagrant
+
